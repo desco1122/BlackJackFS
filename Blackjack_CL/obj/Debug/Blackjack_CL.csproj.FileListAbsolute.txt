@@ -1,0 +1,12 @@
+C:\Users\danie\Downloads\Generic-Casino-Blackjack--master\Generic-Casino-Blackjack--master\Blackjack_CL\bin\Debug\Blackjack_CL.dll
+C:\Users\danie\Downloads\Generic-Casino-Blackjack--master\Generic-Casino-Blackjack--master\Blackjack_CL\bin\Debug\Blackjack_CL.pdb
+C:\Users\danie\Downloads\Generic-Casino-Blackjack--master\Generic-Casino-Blackjack--master\Blackjack_CL\obj\Debug\Blackjack_CL.csprojAssemblyReference.cache
+C:\Users\danie\Downloads\Generic-Casino-Blackjack--master\Generic-Casino-Blackjack--master\Blackjack_CL\obj\Debug\Blackjack_CL.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\Generic-Casino-Blackjack--master\Generic-Casino-Blackjack--master\Blackjack_CL\obj\Debug\Blackjack_CL.dll
+C:\Users\danie\Downloads\Generic-Casino-Blackjack--master\Generic-Casino-Blackjack--master\Blackjack_CL\obj\Debug\Blackjack_CL.pdb
+C:\Users\danie\OneDrive\Desktop\LAB2\Blackjack_CL\bin\Debug\Blackjack_CL.dll
+C:\Users\danie\OneDrive\Desktop\LAB2\Blackjack_CL\bin\Debug\Blackjack_CL.pdb
+C:\Users\danie\OneDrive\Desktop\LAB2\Blackjack_CL\obj\Debug\Blackjack_CL.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\LAB2\Blackjack_CL\obj\Debug\Blackjack_CL.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\LAB2\Blackjack_CL\obj\Debug\Blackjack_CL.dll
+C:\Users\danie\OneDrive\Desktop\LAB2\Blackjack_CL\obj\Debug\Blackjack_CL.pdb
